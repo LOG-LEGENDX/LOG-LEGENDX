@@ -1,16 +1,30 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LOG-LEGENDX.LOG-LEGENDX">
 
-<!--
-**LOG-LEGENDX/LOG-LEGENDX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+Everyone;This+Is+LEGENDX;Nice+To+Meet+You+Guys!&center=true&size=30">
+</h1>
 
-Here are some ideas to get you started:
+<h2 align="center">⮞ Here Are My Stats </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align=center>
+   <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=LOG-LEGENDX&theme=react" alt="LOG-LEGENDX" />
+   <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=LOG-LEGENDX&show_icons=true&theme=react" />
+</div>
+
+<br><br><br><br><br><br><br><br><br>
+
+<div align=center>
+   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOG-LEGENDX&title_color=61dafb&text_color=ffffff&bg_color=20232a&langs_count=8&layout=compact" />
+</div>
+
+<br>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=LOG-LEGENDX&theme=react-dark&bg_color=20232a" width="100%"/>
+
+<br>
+
+<div align="center">
+   <a href="https://github.com/LOG-LEGENDX?tab=repositories">Show More</a>
+</div>
